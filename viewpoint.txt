@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>first web page</title>
+<style>
+body {
+  background-image: url('https://travellemming.com/wp-content/uploads/2018/01/1280p13-1024x685.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="color:purple;">
+<h1 style="color:green;">Mirror of the Sky:Bolivia’s Magical Salt Flats</h1>
+<h2 style="color:red;">The beauty of Bolivia, which connects heaven and earth</h2>
+<h3>Unordered List</h3>
+<ul>
+<li>bullets</li>
+<li>circles</li>
+<li>squares</li>
+</ul>
+
+<h3>Ordered List</h3>
+<ol>
+<li>1,2,3,4..........</li>
+<li>I,II,III,IV......</li>
+<li>a,b,c,d..........</li>
+<li>A,B,C,D..........</li>
+</ol>
+
+<a href="https://www.talentio.in/" target="_blank">Click here</a>
+to visit Talentio website
+
+</body>
+</html>
